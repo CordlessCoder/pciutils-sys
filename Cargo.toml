@@ -6,6 +6,7 @@ authors = ["CordlessCoder"]
 readme = "README.md"
 description = "Raw bindings to pciutils"
 repository = "https://github.com/CordlessCoder/pciutils-sys"
+license-file = "LICENSE"
 
 [dependencies]
 
