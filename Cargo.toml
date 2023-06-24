@@ -1,7 +1,10 @@
 [package]
-name = "pciutils"
+name = "pciutils-sys"
 version = "0.1.0"
 edition = "2021"
+authors = ["CordlessCoder"]
+readme = "README.md"
+description = "Raw bindings to pciutils"
 
 [dependencies]
 
