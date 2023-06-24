@@ -7,7 +7,6 @@ readme = "README.md"
 description = "Raw bindings to pciutils"
 repository = "https://github.com/CordlessCoder/pciutils-sys"
 license = "MIT"
-license-file = "LICENSE"
 
 [dependencies]
 
